@@ -34,7 +34,6 @@ Pulling in GitHub is similar to downloading updates from the cloud to your PC. I
 # REMOTE
 In GitHub, a remote is similar to a link to a copy of your project kept on the GitHub server. It is an online version of your project that allows you to collaborate with others and share your efforts. The remote allows you to manage and sync changes between your local computer and the GitHub server. It's similar to having a backup of your project in the cloud, available from anywhere with an internet connection.
 
-A repository, also known as a "repo" in GitHub, is similar to a folder or container for your project. It is where you save all of the files, documents, and resources for your project. Consider it a central location where you can keep everything organized and easily accessible. GitHub repositories enable you to track changes, collaborate with others, and successfully manage project development. It functions as a digital workspace for your code and related files, available to both you and other project contributors.
 
 # REPOSITORY
 A repository, also known as a "repo" in GitHub, is similar to a folder or container for your project. It is where you save all of the files, documents, and resources for your project. Consider it a central location where you can keep everything organized and easily accessible. GitHub repositories enable you to track changes, collaborate with others, and successfully manage project development. It functions as a digital workspace for your code and related files, available to both you and other project contributors.
