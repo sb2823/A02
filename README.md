@@ -40,22 +40,22 @@ A remote in GitHub acts as a link to your project's copy on the server, allowing
 # REPOSITORY
 A repository serves as a central storage location for project files, making it easier to organize and retrieve papers, resources, and code-related information. It supports version control, contributor participation, and effective project management, as well as a digital workspace for developers to track changes and organize development efforts.
 
- # tuturiol of visual studio
+ # Tuturiol Of Visual Studio
 
- # Install Git:
+ * Install Git:
 
 Download Git from Git Downloads.
 Install Git by following the on-screen instructions.
-# Install Visual Studio:
+* Install Visual Studio:
 Download Visual Studio from Visual Studio Downloads.
 Install Visual Studio by following the installation instructions.
 Create GitHub Account:
 
-# Go to GitHub.
+* Go to GitHub.
 Sign up for a new account.
 Configure Git in Visual Studio:
 
-# Open Visual Studio.
+* Open Visual Studio.
 Go to File > Options.
 Navigate to Source Control > Git Global Settings.
 Ensure the correct Git path is set.
