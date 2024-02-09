@@ -44,6 +44,7 @@ A repository serves as a central storage location for project files, making it e
 
 + Download Git from Git Downloads.
 + Install Git by following the on-screen instructions.
+
 **Install Visual Studio:**<br>
 + Download Visual Studio from Visual Studio Downloads.
 + Install Visual Studio by following the installation instructions.
@@ -60,6 +61,7 @@ A repository serves as a central storage location for project files, making it e
 + Sign in to GitHub in Visual Studio:
 + In the Team Explorer window, click "Connect" > GitHub.
 + Sign in with your GitHub credentials.
+
 **Clone Repository**<br>
 + In Visual Studio's Team Explorer, click "Clone".
 + Enter the repository URL and local path.
@@ -69,6 +71,7 @@ A repository serves as a central storage location for project files, making it e
 **Modify code in Visual Studio**<br>
 + In Team Explorer, go to "Changes".
 + Enter a commit message and click "Commit".
+
 **Push Changes**<br>
 
 + In Team Explorer, go to "Sync".
