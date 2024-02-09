@@ -75,7 +75,7 @@ A repository serves as a central storage location for project files, making it e
 **Push Changes**<br>
 
 + In Team Explorer, go to "Sync".
-+ Click "Push" to upload your changes to GitHub.
++ Click "Push" to upload your changes to GitHub.<br>
 You may easily manage your repositories by connecting Visual Studio to GitHub by following these steps.
 
 
