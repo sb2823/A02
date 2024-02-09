@@ -1,9 +1,9 @@
 # A02
 
-**BRANCH**
+**BRANCH**<br>
 Git branches provide separate paths for project changes, allowing independent work on features or fixes without affecting the main version, facilitating organization and collaboration.
 
-**CLONE**
+**CLONE** <br>
 Cloning in Git allows developers to make local copies of repositories, which fosters collaboration and facilitates contributions to projects hosted on sites such as GitHub.
 
 **COMMIT**
