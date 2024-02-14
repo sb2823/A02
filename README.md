@@ -28,14 +28,14 @@
 
 ---
 
-- Sign in to you Github account (https://github.com/)
+-
 - Install VS Code from (https://code.visualstudio.com/).
 - Open VS Code.
 - Press Ctrl+Shift+X to open Extensions.
 - Search for "GitHub" in the Extensions Marketplace.
 - Click on the "Install" button next to the "GitHub" extension.
 - Once installed, go to the Source Control view by clicking on the icon on the sidebar or pressing Ctrl+Shift+G.
-- Click on the "Sign in to GitHub" button at the bottom of the Source Control view.
+- Click on the "Sign in to GitHub" (https://github.com/) button at the bottom of the Source Control view.
 - Follow the prompts to sign in to your GitHub account using your credentials.
 - After signing in, you can access GitHub features directly within VS Code, such as cloning repositories, managing branches, pushing changes, and viewing pull requests.
 - Now Go to your repository on GitHub.
