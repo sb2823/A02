@@ -6,14 +6,14 @@
 
 ---
 
-Install Git from https://git-scm.com/.
-Install Visual Studio from https://visualstudio.microsoft.com/.
-Open Visual Studio.
-Configure Git settings in Visual Studio under Tools > Options > Source Control > Git Global Settings.
-Optionally, clone a repository by navigating to Team Explorer > Clone.
-Open an existing project or create a new one in Visual Studio.
-Make changes to your code and commit them using Team Explorer > Changes.
-Push your changes to a remote repository using Team Explorer > Sync > Push.
+- Install Git from https://git-scm.com/.
+- Install Visual Studio from https://visualstudio.microsoft.com/.
+- Open Visual Studio.
+- Configure Git settings in Visual Studio under Tools > Options > Source Control > Git Global Settings.
+  Optionally, clone a repository by navigating to Team Explorer > Clone.
+  Open an existing project or create a new one in Visual Studio.
+  Make changes to your code and commit them using Team Explorer > Changes.
+  Push your changes to a remote repository using Team Explorer > Sync > Push.
 
 ---
 
@@ -21,21 +21,21 @@ Push your changes to a remote repository using Team Explorer > Sync > Push.
 
 ---
 
-Signin to you Github account (https://github.com/)
-Install VS Code from (https://code.visualstudio.com/).
-Open VS Code.
-Press Ctrl+Shift+X to open Extensions.
-Search for "GitHub" in the Extensions Marketplace.
-Click on the "Install" button next to the "GitHub" extension.
-Once installed, go to the Source Control view by clicking on the icon on the sidebar or pressing Ctrl+Shift+G.
-Click on the "Sign in to GitHub" button at the bottom of the Source Control view.
-Follow the prompts to sign in to your GitHub account using your credentials.
-After signing in, you can access GitHub features directly within VS Code, such as cloning repositories, managing branches, pushing changes, and viewing pull requests.
-Go to your repository on GitHub.
-Click "Add README" to create one or edit an existing README.md file.
-Use Markdown syntax to add content, including headings, lists, links, images, and code snippets.
-Preview changes and commit them with a meaningful message.
-Share your README.md to provide project information and guidance to users and contributors.
+- Sign in to you Github account (https://github.com/)
+- Install VS Code from (https://code.visualstudio.com/).
+- Open VS Code.
+- Press Ctrl+Shift+X to open Extensions.
+- Search for "GitHub" in the Extensions Marketplace.
+- Click on the "Install" button next to the "GitHub" extension.
+- Once installed, go to the Source Control view by clicking on the icon on the sidebar or pressing Ctrl+Shift+G.
+- Click on the "Sign in to GitHub" button at the bottom of the Source Control view.
+- Follow the prompts to sign in to your GitHub account using your credentials.
+- After signing in, you can access GitHub features directly within VS Code, such as cloning repositories, managing branches, pushing changes, and viewing pull requests.
+- Now Go to your repository on GitHub.
+- Click "Add README" to create one or edit an existing README.md file.
+- Use Markdown syntax to add content, including headings, lists, links, images, and code snippets.
+- Preview changes and commit them with a meaningful message.
+- Share your README.md to provide project information and guidance to users and contributors.
 
 ---
 
