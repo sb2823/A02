@@ -7,13 +7,20 @@
 ---
 
 - Install Git from https://git-scm.com/.
+
 - Install Visual Studio from https://visualstudio.microsoft.com/.
+
 - Open Visual Studio.
+
 - Configure Git settings in Visual Studio under Tools > Options > Source Control > Git Global Settings.
-  Optionally, clone a repository by navigating to Team Explorer > Clone.
-  Open an existing project or create a new one in Visual Studio.
-  Make changes to your code and commit them using Team Explorer > Changes.
-  Push your changes to a remote repository using Team Explorer > Sync > Push.
+
+- Optionally, clone a repository by navigating to Team Explorer > Clone.
+
+- Open an existing project or create a new one in Visual Studio.
+
+- Make changes to your code and commit them using Team Explorer > Changes.
+
+- Push your changes to a remote repository using Team Explorer > Sync > Push.
 
 ---
 
