@@ -28,7 +28,7 @@
 
 ---
 
--
+
 - Install VS Code from (https://code.visualstudio.com/).
 - Open VS Code.
 - Press Ctrl+Shift+X to open Extensions.
