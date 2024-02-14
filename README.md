@@ -2,7 +2,7 @@
 
 ---
 
-# Tuturiol of Git:
+# tutorial of Git:
 
 ---
 
@@ -24,7 +24,7 @@
 
 ---
 
-# Tuturiol Of GitHub connect to VS Code :
+# tutorial Of GitHub connect to VS Code :
 
 ---
 
